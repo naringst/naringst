@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:bfdbff,50:EAF4FF,100:bfdbff&text=Welcome👋&fontColor=0550ae)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:bfdbff,50:EAF4FF,100:bfdbff&text=Welcome😊&fontColor=0550ae)
 
 
 ### 🌊 FrontEnd
