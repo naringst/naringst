@@ -28,9 +28,7 @@
   
 ### 📚 Study Log
 
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=naringst&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=naringst)](https://velog-readme-stats.vercel.app/api/redirect?name=naringst)
 
 ## 
 
