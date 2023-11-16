@@ -25,15 +25,14 @@
 
 
 <br/>
-  
-### 📚 Study Log
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=naringst)](https://velog-readme-stats.vercel.app/api/redirect?name=naringst)
+### 😉 Algorithm 
 
-## 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=shotshot)](https://solved.ac/shotshot)
+<br/>
 
-<br/> 
-
+### 🖤 github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naringst&show_icons=true&theme=holi)
 
 
@@ -51,8 +50,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=shotshot)](https://solved.ac/shotshot)
+- 
 -->
 
 </div>
